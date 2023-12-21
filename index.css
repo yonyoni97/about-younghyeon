@@ -156,7 +156,8 @@ a{
 
 /*aboutme*/
 .aboutMEBox{
-    width: 1300px;
+    width: 90%;
+    max-width: 1300px;
     height: 85vh;
     position: absolute;
     bottom: 20px;
@@ -220,7 +221,8 @@ a{
 .skillBox{
     display: flex;
     align-items: end;
-    width: 1300px;
+    width: 90%;
+    max-width: 1300px;
     background: #858b96cd;
     border-radius: 15px;
     height: 85vh;
@@ -301,7 +303,8 @@ a{
 
 /*portFolio*/
 .portFolioBOx{
-    width: 1300px;
+    width: 90%;
+    max-width: 1300px;
     background: #4e6692cd;
     border-radius: 15px;
     height: 85vh;
@@ -318,7 +321,8 @@ a{
 }
 .PF_body{
     display: flex;
-    gap: 40px;
+    justify-content: space-between;
+    /* gap: 40px; */
     padding: 0 40px;
     padding-bottom: 30px;
     box-sizing: border-box;
@@ -367,7 +371,8 @@ a{
 /*contact*/
 
 .chooseContact{
-    width: 900px;
+    width: 70%;
+    max-width: 900px;
     height: 100vh;
     margin: 0 auto;
     display: flex;
