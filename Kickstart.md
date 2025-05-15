@@ -28,3 +28,15 @@
 
 ## Scatter 산점도그래프 예시이미지
 <img src="https://github.com/user-attachments/assets/2b6706e6-2a8c-4142-b687-49b0afcb4bb4"  width="600"/>
+
+<img src="https://github.com/user-attachments/assets/b1d1998b-dfb7-44b2-a4e6-22ac4008d8f0"  width="800"/>
+
+<img src="https://github.com/user-attachments/assets/ecd597de-70e1-4501-ac8f-edbd1c889c9d"  width="800"/>
+
+
+
+<img src="https://github.com/user-attachments/assets/194be069-d8d3-42d9-8369-1366bfcf5a19"  width="800"/>
+
+<img src="https://github.com/user-attachments/assets/c12aa445-3c20-4d81-8a29-cd4e91dbf87a"  width="800"/>
+
+
